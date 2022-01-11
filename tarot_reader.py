@@ -1,6 +1,5 @@
 import json
 import random
-import draw_cards as tarot
 
 ##cards = tarot.DrawCards.return_fortune()
 #data file
